@@ -1,4 +1,5 @@
 {
+  "definitions": {
   "Contract": {
     "properties": {
       "suspended": {
@@ -11,4 +12,5 @@
       } 
     }
   }
+}
 }
