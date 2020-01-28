@@ -1,1 +1,14 @@
-{}
+{
+  "Contract": {
+    "properties": {
+      "suspended": {
+          "title": "Suspended?",
+          "description": "A true/false field to indicate whether the contract is suspended",
+          "type": [
+            "boolean",
+            "null"
+        ]
+      } 
+    }
+  }
+}
